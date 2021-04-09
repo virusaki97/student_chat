@@ -36,7 +36,11 @@ Communication screens in Student chat:
 
 Other options:
   Share screen
+  
   Change the front and back camera
+  
   Activate sound speaker
+  
   Camera on/off
+  
   Microphone on/off
