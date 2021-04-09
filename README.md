@@ -2,22 +2,27 @@
 Mobile application for secure communication
 
 App start screen:
+
 ![](appscreens/Capture.PNG)
 
 
 App Server:
+
 ![](appscreens/Capture2.PNG)
 
 
 Get tokens for authentication:
+
 ![](appscreens/Capture3.PNG)
 
 
 The basic screen in the student chat chat:
+
 ![](appscreens/Capture4.PNG)
 
 
 Communication screens in Student chat
+
 ![](appscreens/Capture4.PNG)
 
 
