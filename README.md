@@ -1,6 +1,12 @@
 # student_chat
 Mobile application for secure communication
 
+- we created credentials for user 1 and user 2 and put them in class
+AuthData, there is the token for authentication in the Mesibo system (se
+uses the OAuth2 security standard);
+- communication between users is secure (AES-256 is used
+and SSL);
+
 App start screen:
 
 ![](appscreens/Capture.PNG)
