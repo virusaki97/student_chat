@@ -35,6 +35,7 @@ Communication screens in Student chat:
 
 
 Other options:
+
   Share screen
   
   Change the front and back camera
