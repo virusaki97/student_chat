@@ -1,5 +1,5 @@
 # student_chat
-Mobile application for secure communication
+<h2>Mobile application for secure communication</h2>
 
 - we created credentials for user 1 and user 2 and put them in class
 AuthData, there is the token for authentication in the Mesibo system (se
@@ -34,7 +34,7 @@ Communication screens in Student chat:
 ![](appscreens/Capture5.PNG)
 
 
-Other options:
+<h2>Other options:</h2>
 
   Share screen
   
