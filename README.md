@@ -23,7 +23,7 @@ The basic screen in the student chat chat:
 
 Communication screens in Student chat
 
-![](appscreens/Capture4.PNG)
+![](appscreens/Capture5.PNG)
 
 
 Other options:
