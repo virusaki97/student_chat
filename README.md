@@ -21,7 +21,7 @@ The basic screen in the student chat chat:
 ![](appscreens/Capture4.PNG)
 
 
-Communication screens in Student chat
+Communication screens in Student chat:
 
 ![](appscreens/Capture5.PNG)
 
